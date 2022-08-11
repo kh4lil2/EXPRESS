@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+body {
+  
+  background-image: url("./image/img.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+nav ul {
+  text-align: center;
+  border-radius: 30px;
+  background: #9ea9f488;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.226),
+    inset 0 0 1px rgba(255, 255, 255, 0.87);
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 18px;
+  font-family:monospace;
+  color: rgba(25, 76, 206, 0.5);
+  font-size: 18px;
+  text-decoration: none;
+  margin: 0% 5% 0% 5%;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: rgb(224, 24, 24);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav ul li:hover {
+
+  background: rgba(15, 13, 177, 0.1);
+  color: rgba(254, 254, 254, 0.7);
+}
+
+h1 {
+  text-align: center;
+  background-color: #ec5a5ab2;
+  margin: 5% 30% 0% 30%;
+  color: #000000;
+  border-radius: 20px;
+  font-family: "Bebas Neue";
+}
+.conatct {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',' Geneva', Verdana, sans-serif;
+  text-align: center;
+  background-color: #bdb8b8b2;
+  border-radius: 50px;
+
+}
